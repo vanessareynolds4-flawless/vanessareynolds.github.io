@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanessa Reynolds</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+
+    <h1 style="text-align:center;">Vanessa Reynolds</h1>
+
+    <h2>Bio</h2>
+    <p>
+        I am passionate about research, city planning, culture, and community development. 
+        I enjoy eating food, watching TV, traveling, and sports.
+    </p>
+
+    <h2>School / Program</h2>
+    <p>
+        Geography
+    </p>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Assignment: Building and Hosting Your Personal Website 
+Objective: 
+This assignment is designed to give you practical experience in web development and hosting. You will 
+create a personal website by modifying a provided template and then host it online using GitHub </li>
+           </ul>
+
+    <h2>Photo</h2>
+    <p>
+        <img src="images/basketball.jpg" alt="Basketball or sport object" width="200">
+    </p>
+
+</body>
+</html>
+
